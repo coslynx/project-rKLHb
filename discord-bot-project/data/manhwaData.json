@@ -1,0 +1,27 @@
+{
+  "manhwaData": {
+    "library": {
+      "titles": [
+        {
+          "title": "Manhwa Title 1",
+          "genre": "Action",
+          "popularity": "High",
+          "releaseDate": "2021-01-15",
+          "description": "Description of Manhwa Title 1",
+          "image": "image_url_1"
+        },
+        {
+          "title": "Manhwa Title 2",
+          "genre": "Romance",
+          "popularity": "Medium",
+          "releaseDate": "2020-11-30",
+          "description": "Description of Manhwa Title 2",
+          "image": "image_url_2"
+        }
+      ]
+    },
+    "recentlyRead": [],
+    "bookmarks": [],
+    "searchResults": []
+  }
+}
